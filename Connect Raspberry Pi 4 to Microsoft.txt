@@ -1,0 +1,4 @@
+Connect Raspberry Pi 4 to Microsoft Remote Desktop: https://youtu.be/FekOhFJ0Khw?si=epRHRUWVNb2t9Vg7
+Username: pi
+IP address: 72.16.0.67
+Passwords: 1234
