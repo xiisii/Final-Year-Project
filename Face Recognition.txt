@@ -1,3 +1,0 @@
-Paper:	https://arxiv.org/pdf/1503.03832.pdf
-Face Recognition Based Complete Attendance System with Database and Webpage using Raspberry Pi
-https://youtu.be/qeHXHphI9cg?si=Wm2iz_y2ZzjtkLE8
