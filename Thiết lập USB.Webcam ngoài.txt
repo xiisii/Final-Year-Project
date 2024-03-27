@@ -1,2 +1,0 @@
-fswebcam -r 1920x1080 -pMJEG test.jpg
-Link ytb: https://youtu.be/_uVaZalaSbI?si=d2iQ-rY1HdDTYuR5
